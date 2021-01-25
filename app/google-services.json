@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "810794629830",
+    "project_id": "dv-shop",
+    "storage_bucket": "dv-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810794629830:android:f84ce3635e267fb888b5c7",
+        "android_client_info": {
+          "package_name": "com.dv.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810794629830-95cmvjnuiuaaglr5gmqu9tu0qob2s4ga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dv.ecommerce",
+            "certificate_hash": "17ac7241bdb41053e03c7b1c16467ba0078acc64"
+          }
+        },
+        {
+          "client_id": "810794629830-51dp948cgj58gdf7lfag9uqml0do95s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr00ztAXv-STDSE2RKm6eyQufToGcsqGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810794629830-51dp948cgj58gdf7lfag9uqml0do95s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
